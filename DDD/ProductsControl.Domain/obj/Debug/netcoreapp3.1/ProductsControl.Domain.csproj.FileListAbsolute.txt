@@ -1,0 +1,9 @@
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\bin\Debug\netcoreapp3.1\ProductsControl.Domain.deps.json
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\bin\Debug\netcoreapp3.1\ProductsControl.Domain.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\bin\Debug\netcoreapp3.1\ProductsControl.Domain.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\obj\Debug\netcoreapp3.1\ProductsControl.Domain.csprojAssemblyReference.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\obj\Debug\netcoreapp3.1\ProductsControl.Domain.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\obj\Debug\netcoreapp3.1\ProductsControl.Domain.AssemblyInfo.cs
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\obj\Debug\netcoreapp3.1\ProductsControl.Domain.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\obj\Debug\netcoreapp3.1\ProductsControl.Domain.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Domain\obj\Debug\netcoreapp3.1\ProductsControl.Domain.pdb

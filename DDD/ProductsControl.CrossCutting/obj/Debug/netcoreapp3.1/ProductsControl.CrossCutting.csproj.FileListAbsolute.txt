@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.CrossCutting.deps.json
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.CrossCutting.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.AssemblyInfo.cs
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.Application.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.Domain.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.Infra.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.csprojAssemblyReference.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.CrossCutting.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.Application.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.Domain.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\bin\Debug\netcoreapp3.1\ProductsControl.Infra.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.csproj.CopyComplete
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.CrossCutting\obj\Debug\netcoreapp3.1\ProductsControl.CrossCutting.pdb

@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl\\ProductsControl.csproj": {}
+  },
+  "projects": {
+    "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Application\\ProductsControl.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Application\\ProductsControl.Application.csproj",
+        "projectName": "ProductsControl.Application",
+        "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Application\\ProductsControl.Application.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj"
+              },
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.CrossCutting\\ProductsControl.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.CrossCutting\\ProductsControl.CrossCutting.csproj",
+        "projectName": "ProductsControl.CrossCutting",
+        "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.CrossCutting\\ProductsControl.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Application\\ProductsControl.Application.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Application\\ProductsControl.Application.csproj"
+              },
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj"
+              },
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj",
+        "projectName": "ProductsControl.Domain",
+        "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj",
+        "projectName": "ProductsControl.Infra",
+        "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\ProductsControl.Infra.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.Domain\\ProductsControl.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl\\ProductsControl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl\\ProductsControl.csproj",
+        "projectName": "ProductsControl",
+        "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl\\ProductsControl.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.CrossCutting\\ProductsControl.CrossCutting.csproj": {
+                "projectPath": "D:\\Desenvolvimento\\Accelerate dotNet\\ProductsControl.CrossCutting\\ProductsControl.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

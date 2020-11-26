@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\bin\Debug\netcoreapp3.1\ProductsControl.Domain.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.csprojAssemblyReference.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.AssemblyInfo.cs
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\bin\Debug\netcoreapp3.1\ProductsControl.Infra.deps.json
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\bin\Debug\netcoreapp3.1\ProductsControl.Infra.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\bin\Debug\netcoreapp3.1\ProductsControl.Infra.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\bin\Debug\netcoreapp3.1\ProductsControl.Domain.pdb
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.csproj.CopyComplete
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.dll
+D:\Desenvolvimento\Accelerate dotNet\ProductsControl.Infra\obj\Debug\netcoreapp3.1\ProductsControl.Infra.pdb

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductsControl.Application\ProductsControl.Application.csproj" />
+    <ProjectReference Include="..\ProductsControl.Domain\ProductsControl.Domain.csproj" />
+    <ProjectReference Include="..\ProductsControl.Infra\ProductsControl.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
