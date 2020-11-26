@@ -1,0 +1,9 @@
+Create Database SalesForce
+
+use SalesForce
+Create table Products (
+				 id int not null identity(1,1) primary key 	
+				,Descriptions varchar(50)
+				,Stock float
+				,FlgAtivo char(1)
+				)
